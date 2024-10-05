@@ -4,6 +4,6 @@ def main():
     print(f"합계: {num1 + num2}")
     print(f"차이: {num1 - num2}")
     print(f"곱셈: {num1 * num2}")
-
+    print(f"나눗셈: {num1 / num2}")
 if __name__ == "__main__":
     main()
